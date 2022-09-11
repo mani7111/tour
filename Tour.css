@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-container{
+    background-image: url("a.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tour-card{
+    background-image: url("b.jpg");
+    height: 100vh;
+    text-align: center;
+    padding: 5px;
+}
+
+.tour-head{
+    color: #b0e1eb;
+    font-family: "Roboto";
+}
+
+.tour-para{
+    color: #c8e9f0;
+    font-family: "Roboto";
+}
+
+.button{
+    background-color: #25b1cc;
+    height: 36px;
+    width: 138px;
+    color: #ffffff;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.favouroite-place-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 25px;
+}
+
+.fav-heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.fav-card{
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.taj-heading{
+    color: #0f0e46;
+    font-family:"Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.taj-para{
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.taj-image{
+    height: 100px;
+    width: 80px;
+    margin-left: 20px;
+}
+
+.detail-view-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    height: 100%;
+}
+
+.detailed-heading{
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card{
+    background-color: #ffffff;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.detailed-view-card-description {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #6c6b70;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
+
+.unordered-list {
+    list-style-type: disc;
+}
+
+.ordered-list {
+    list-style-type: lower-roman;
+}
+
+.favourite-place-card-text-container {
+    margin: 15px;
+}
+
+.tour{
+    margin-top: 350px;
+}
+
+.Home{
+    background-image: url("h1.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.head{
+    color: #fdfdfd;
+    font-family: "Roboto";
+    font-size: 55px;
+}
+
+.para{
+    color: #85fa00;
+    font-family: "Roboto";
+    font-size: 35px;
+}
+
+.pd{
+    margin-top: 20px;
+    height: 400px;
+    width: 475px;
+}
